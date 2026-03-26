@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:latest
+        image: 599476212737.dkr.ecr.ap-southeast-2.amazonaws.com/ga-repo:4d36080f24c024ea7b8454103fadb5533c97e4d5
